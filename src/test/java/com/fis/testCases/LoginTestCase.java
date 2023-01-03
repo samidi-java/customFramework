@@ -84,5 +84,11 @@ public class LoginTestCase extends BaseTest{
 			
 		logger.info("testAddNewCustomer test case is completed");
 	}
+	
+	@Test
+	public void testEditCustomer()
+	{
+		System.out.println("in testEditCustomer ");
+	}
 
 }
