@@ -116,3 +116,33 @@
 2022-12-26 08:12:23,398 [main] INFO Guru99 Banking Application - Test case is failed
 2022-12-26 08:12:25,356 [main] INFO Guru99 Banking Application - testLoginPage is completed
 2022-12-26 08:12:26,517 [main] INFO Guru99 Banking Application - Closing the browser
+2023-01-05 07:27:22,516 [main] INFO Guru99 Banking Application - open the given url:https://demo.guru99.com/V1/index.php
+2023-01-05 07:27:23,897 [main] INFO Guru99 Banking Application - Closing the browser
+2023-01-05 07:27:51,526 [main] INFO Guru99 Banking Application - open the given url:https://demo.guru99.com/V1/index.php
+2023-01-05 07:27:51,531 [main] INFO Guru99 Banking Application - testAddNewCustomer is started
+2023-01-05 07:27:51,775 [main] INFO Guru99 Banking Application - Enter the userName:mngr464559
+2023-01-05 07:27:52,314 [main] INFO Guru99 Banking Application - Enter the password:YquqYsA
+2023-01-05 07:27:54,657 [main] INFO Guru99 Banking Application - Click on Login Button
+2023-01-05 07:28:16,807 [main] INFO Guru99 Banking Application - Click on new Customer link
+2023-01-05 07:28:22,196 [main] INFO Guru99 Banking Application - Enter the customer name
+2023-01-05 07:28:31,106 [main] INFO Guru99 Banking Application - select the Gender
+2023-01-05 07:28:35,548 [main] INFO Guru99 Banking Application - Enter Date of birth
+2023-01-05 07:28:35,773 [main] INFO Guru99 Banking Application - Enter Address
+2023-01-05 07:28:36,119 [main] INFO Guru99 Banking Application - Enter City
+2023-01-05 07:28:36,455 [main] INFO Guru99 Banking Application - Enter State
+2023-01-05 07:28:36,687 [main] INFO Guru99 Banking Application - Enter Pin code
+2023-01-05 07:28:37,432 [main] INFO Guru99 Banking Application - Enter Telphone number
+2023-01-05 07:28:37,865 [main] INFO Guru99 Banking Application - Enter email
+2023-01-05 07:28:38,236 [main] INFO Guru99 Banking Application - Click on submit button
+2023-01-05 07:29:09,519 [main] INFO Guru99 Banking Application - testAddNewCustomer test case is completed
+2023-01-05 07:29:11,815 [main] INFO Guru99 Banking Application - Closing the browser
+2023-01-05 07:29:57,257 [main] INFO Guru99 Banking Application - open the given url:https://demo.guru99.com/V1/index.php
+2023-01-05 07:29:59,323 [main] INFO Guru99 Banking Application - Closing the browser
+2023-01-05 07:30:22,868 [main] INFO Guru99 Banking Application - open the given url:https://demo.guru99.com/V1/index.php
+2023-01-05 07:30:22,871 [main] INFO Guru99 Banking Application - testLoginPage started
+2023-01-05 07:30:22,873 [main] INFO Guru99 Banking Application - Enter the userName:mngr464559
+2023-01-05 07:30:23,537 [main] INFO Guru99 Banking Application - Enter the password:YquqYsA
+2023-01-05 07:30:24,338 [main] INFO Guru99 Banking Application - Click on Login Button
+2023-01-05 07:31:12,078 [main] INFO Guru99 Banking Application - Test case is failed
+2023-01-05 07:31:12,489 [main] INFO Guru99 Banking Application - testLoginPage is completed
+2023-01-05 07:31:14,600 [main] INFO Guru99 Banking Application - Closing the browser
